@@ -3,7 +3,7 @@ title: Augmented Reality with Flutter
 author: Turzo Bose
 layout: post
 icon: fa-vr-cardboard
-icon-style: regular
+icon-style: solid
 ---
 Flutter is a great platform to develop applications for both iOS and Android, without the need for coding twice. For iOS development, a great plugin is ARKit, which is developed by link.
 
