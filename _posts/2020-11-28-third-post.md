@@ -2,7 +2,7 @@
 title: Dimension tracking for Conv2D layer in PyTorch and Tensorflow
 author: Turzo Bose
 layout: post
-icon: fa-lightbulb
+icon: fa-connectdevelop
 icon-style: regular
 ---
 Keeping track of the dimensions is a very cumbersome process if not properly understood, specially while designing the deep neural network model architectures. The work adds on when having to shift between different machine learning frameworks, ideally PyTorch and Tensorflow. It is crazy how although both these frameworks are ideally doing the same thing, but the syntax makes it increasingly difficult to allow for fluid transitions between them. Hence, this post is written to make the dimension tracking process simpler, for both PyTorch and Tensorflow implementations.
